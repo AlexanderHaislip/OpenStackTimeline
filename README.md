@@ -2,7 +2,7 @@
 ***
 You can see the work visualized here: http://www.tiki-toki.com/timeline/entry/138134/OpenStack-History/
 ***
-Please add your name to this list if you've made edits: Alexander Haislip, Your Name Goes Here, Another Name Goes Here, Foo
+Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Another Name Goes Here, Foo
 
 ###Rackspace Subsidiary Mosso Launches Cloud-Like Services
 19 Feb 2008
