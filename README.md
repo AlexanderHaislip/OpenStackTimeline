@@ -149,7 +149,8 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Bexar
 
 ###Rackspace Acquires Anso Labs
 09 Feb 2011
-Anso Labs is a participant in the OpenStack project and has already contributed substantially to its success.  They are best known for work they have done with NASA to help build their Nebula cloud platform, the code behind which NASA contributed to the open source community as the basis for OpenStack Compute last summer. Anso Labs – like Rackspace — believes the world needs a truly open cloud platform and are committed to building it.
+
+Rackspace buys Anso for an undisclosed amount and with it gets the technologists responsible for creating the on-demand computing project Nova.
 
 http://www.rackspace.com/blog/rackspace-acquires-anso-labs-furthers-commitment-to-openstack/
 
@@ -202,7 +203,7 @@ http://www.crn.com/news/cloud/231002776/hp-pledges-allegiance-to-openstack-cloud
 ###Rackspace Begins OpenStack Cloud Testing
 01 Sep 2011
 
-Two weeks ago, we started inviting a small set of customers and partners to use a private alpha of Compute running in our data centers.  Over the coming weeks and months we will add features, capabilities and customers.  We will refine the code, work out bugs, solidify our operational systems and start hooking in our production systems.  Priority #1 inside our cloud product development organization is making this shift, and we could not be more excited about it.
+Rackspace President Lew Moorman writes: <i> "Two weeks ago, we started inviting a small set of customers and partners to use a private alpha of Compute running in our data centers. Over the coming weeks and months we will add features, capabilities and customers.We will refine the code, work out bugs, solidify our operational systems and start hooking in our production systems. Priority #1 inside our cloud product development organization is making this shift, and we could not be more excited about it." </i>
 
 http://www.rackspace.com/blog/openstack-compute-enters-testing-stage-at-rackspace/
 
@@ -219,21 +220,21 @@ http://www.geekzone.co.nz/content.asp?contentid=9420
 ###Piston Cloud OpenStack Play Gets $4.5 Million Boost
 04 Nov 2011
 
-Open-source cloud player Piston Cloud Computing brought in a whopping $4.5 million in funding this week, cash that the startup will use to beef up its OpenStack software.  The $4.5 million investment was led by Hummer Winblad and True Ventures, with Divergent Ventures and others participating. 
+Anso Labs cofounder Josh McKenty's Piston Cloud raises $4.5 million to continue work on customized OpenStack distributions. Hummer Winblad and True Ventures lead the investment. 
 
 http://www.crn.com/news/cloud/231001454/piston-cloud-openstack-play-gets-4-5-million-boost.htm
 
 ###InfoWorld: Why OpenStack Will Falter
 04 Nov 2011
 
-Open source history suggests that Eucalyptus, a private cloud implementation of Amazon Web Services, will triumph over OpenStack -- By Savio Rodrigues | InfoWorld
+Svio Rodrigues suggests: "Open source history suggests that Eucalyptus, a private cloud implementation of Amazon Web Services, will triumph over OpenStack"
 
 http://www.infoworld.com/d/open-source-software/why-openstack-will-falter-178038
 
 ###AT&T Joins OpenStack
 09 Jan 2012
 
-AT&T became the first U.S. telecom service provider to join OpenStack, the organization that has developed an open-source cloud software stack.  Having a major carrier like AT&T backing OpenStack will help drive the project forward, Jim Curry, chief stacker at OpenStack, said. He spoke on Monday at the AT&T Developers Summit at CES in Las Vegas. 
+AT&T becames the first U.S. telecom service provider to join OpenStack. 
 
 http://www.pcworld.com/article/247574/atandt_joins_openstack.html
 
@@ -247,21 +248,19 @@ http://www.openstack.org/blog/2012/02/trystack-org-a-sandbox-for-openstack/
 ###Rackspace Cloud Powered by OpenStack™ [Beta]
 01 Mar 2012
 
-Today the next-generation Cloud Servers, powered by OpenStack™, completed the private Alpha phase and entered the Beta phase. This transition is a huge milestone for OpenStack and for the Open era of the cloud. Through the Alpha program, working with our customers and early users, we have learned a lot. What we have today is their input resulting in substantial improvements – from better API responsiveness to the ability for a single user to concurrently spin up hundreds of servers within minutes.These are concrete steps towards making the OpenStack-based Cloud platform ready for production scale deployments. The Beta phase will allow us to continue to advance development towards that goal and Rackspace vision and enrich the user experience.
+Today the next-generation Cloud Servers, powered by OpenStack™, completed the private Alpha phase and entered the Beta phase. This transition is a huge milestone for OpenStack and for the Open era of the cloud. Through the Alpha program, working with our customers and early users, we have learned a lot. What we have today is their input resulting in substantial improvements – from better API responsiveness to the ability for a single user to concurrently spin up hundreds of servers within minutes.These are concrete steps towards making the OpenStack-based Cloud platform ready for production scale deployments. The Bleta phase will allow us to continue to advance development towards that goal and Rackspace vision and enrich the user experience.
 
 http://www.rackspace.com/blog/rackspace-cloud-servers-powered-by-openstack-beta/
 
 ###OpenStack Gets a New GUI
 03 Apr 2012
 
-The developers behind OpenStack have updated their open source cloud software package with a new graphical user interface and a unified authentication management system, the project's organizers announced Thursday. 
-
 http://www.pcworld.com/article/240401/openstack_gets_a_new_gui.html
 
-###Citrix Abandons OpenStack, Takes CloudStack to Apache
+###Citrix Takes CloudStack to Apache
 03 Apr 2012
 
-Citrix has abandoned its Olympus OpenStack distribution and will focus instead on its open-source CloudStack operating system, which it has contributed as a project under the Apache Software Foundation.  As part of the announcement, Citrix said CloudStack will continue to support Amazon's APIs (application programming interfaces) and believes such support is crucial to the success of cloud platforms. It implied it has Amazon's blessing.
+Citrix puts CloudStack under the Apache2.0 license and announces its intention to no longer support its Olympus OpenStack distribution. CloudStack continues to support AWS APIs.
 
 http://www.infoworld.com/d/cloud-computing/citrix-abandons-openstack-takes-cloudstack-apache-190080
 
@@ -273,17 +272,24 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Essex
 ###Rackspace Moves to Production OpenStack
 16 Apr 2012
 
-Today, Rackspace® (NYSE: RAX), the service leader in cloud computing and a co-founder of OpenStack®, launched new cloud capabilities featuring the world’s first large-scale, production ready next generation cloud, powered by OpenStack and backed by Fanatical Support®.  Built on OpenStack, the next generation cloud incorporates a robust portfolio of cloud solutions such as Cloud Servers, Cloud Databases, Cloud Block Storage, Cloud Networks, a completely new cloud Control Panel, Cloud Monitoring and support for the OpenStack API.  “The open era of the cloud is a reality and Rackspace has positioned itself at the forefront of this massive, technological shift,” said Lanham Napier, CEO of Rackspace.  “We’re drawing a line in the sand against proprietary cloud providers.  With this launch, Rackspace is providing an open cloud alternative, backed by Fanatical Support and our core expertise on OpenStack, to deliver a strong product portfolio that will help customers navigate their way through an increasingly complex cloud environment.”
+Rackspace begins migrating customers onto its OpenStack-based public cloud. “We’re drawing a line in the sand against proprietary cloud providers," says Rackspcae CEO Lanham Napier.
+
+???WOULD REALLY APPRECIATE ADDITIONAL TECHNICAL COMMENTARY HERE???
 
 http://www.rackspace.com/blog/rackspace-announces-availability-of-production-ready-next-generation-cloud-powered-by-openstack/
 
-###HP Gets Its Cloud On
+###HP Launches an OpenStack-based Public Cloud
 09 May 2012
 
 http://www.wired.com/insights/2012/05/hp-gets-its-cloud-on/
 
-###OpenStack Foundation Launches With $10M in Funding, 5600 Members
+###OpenStack Foundation Launches
 19 Sep 2012
+
+OpenStack claims 550 developers at 180 participating companies. It collects $10 million in initial funding from corporate sponsors.
+
+Platinum Members: AT&T, Canonical, HP, IBM, Nebula, Rackspace, Red Hat and SUSE
+Gold Members: CCAT, Cisco, Cloudscaling, Dell, DreamHost, Mirantis, Morphlabs, NetApp, Piston Cloud Computing, Yahoo, Intel, NEC and VMware
 
 http://www.eweek.com/c/a/Cloud-Computing/OpenStack-Foundation-Launches-With-10M-in-Funding-5600-Members-312854/
 
@@ -322,10 +328,10 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Grizzly
 
 http://www.youtube.com/watch?v=NgahKksMZis
 
-###Dell backs away from OpenStack public cloud, steps up to Enstratius
-20 May 2013 
+###Dell Backs Away from OpenStack Public Cloud
+20 May 2013
 
-Dell has changed up its cloud strategy again. As of Monday, it has officially backed off on plans to anoint OpenStack as the basis its upcoming public cloud and said it will rely instead on third parties to offer that capability. Dell will act as the single-source supplier front-ending all these diverse clouds, and that decision makes Enstratius, which Dell bought two weeks ago, the focal point of its cloud strategy. Nnamdi Orakwue, VP of Dell Cloud  Nnamdi Orakwue, VP of Dell Cloud  The company’s first public cloud partners are Joyent, ScaleMatrix and ZeroLag. The rationale: Dell customers don’t want to be locked into a single cloud vendor and would like assurances that workloads can be moved as needed if their requirements change or their current cloud is not up to snuff. ZeroLag gives Dell a VMware-based cloud option.
+Dell indicates it will not launch its own OpenStack-based public cloud. It will partner with third-party providers instead. Initial partners include Joyent, ScaleMetrix and ZeroLag---a VMware-based cloud. Dell acquires Enstratius to provide a management layer.
 
 http://gigaom.com/2013/05/28/cloud-trailblazers-10-for-2013/
 
