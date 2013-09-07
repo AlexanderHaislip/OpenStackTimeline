@@ -179,7 +179,7 @@ http://www.youtube.com/watch?v=wcqIu3-x4co
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Cactus#Release_Notes.2C_Cactus
 
-###OpenStack Desgin Summit
+###OpenStack Design Summit
 26 Apr 2011
 
 Santa Clara, CA
