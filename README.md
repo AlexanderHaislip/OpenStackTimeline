@@ -2,7 +2,7 @@
 ***
 You can see the work visualized here: http://www.tiki-toki.com/timeline/entry/138134/OpenStack-History/
 ***
-Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Another Name Goes Here, Foo
+Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Troy Toman, Another Name Goes Here, Foo
 
 ###Rackspace Subsidiary Mosso Launches Cloud-Like Services
 19 Feb 2008
@@ -18,7 +18,7 @@ Slicehost boosts Rackspace's on-demand infrastructure offerings. Slicehost offer
 
 http://techcrunch.com/2008/10/22/rackspace-acquires-jungledisk-slicehost-to-take-on-amazon-web-services/
 
-###Open Government Iniative Signed by the President
+###Open Government Initiative Signed by the President
 08 Dec 2009
 
 On his very first day in office, President Obama signed a memorandum to all federal agencies directing them to break down barriers to transparency, participation, and collaboration between the federal government and the people it is to serve. This initiative helps provide justification for the NASA Nebula project. 
@@ -212,6 +212,15 @@ http://www.rackspace.com/blog/openstack-compute-enters-testing-stage-at-rackspac
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Diablo
 
+###Boston Design Summit
+3 Oct 2011
+
+http://www.openstack.org/community/events/openstack-conference-fall-2011/
+
+###Rackspace announces intention to form an OpenStack Foundation in 2012
+
+http://www.openstack.org/blog/2011/10/openstack-foundation/
+
 ###Akamai joins OpenStack Community
 08 Oct 2011 
 
@@ -269,12 +278,25 @@ http://www.infoworld.com/d/cloud-computing/citrix-abandons-openstack-takes-cloud
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Essex
 
+
+###IBM and RedHat join OpenStack Foundation effort
+12 Apr 2012
+
+https://www-304.ibm.com/connections/blogs/59c1123b-0353-458e-a719-b002d84108d5/entry/ibm_announces_platinum_sponsorship_of_the_new_openstack_foundation?lang=en_us
+http://www.redhat.com/about/news/archive/2012/4/red-hat-openstack-and-open-clouds
+
+###San Francisco Design Summit
+16 Apr 2012
+
+http://www.openstack.org/blog/2012/01/the-openstack-spring-2012-conference-in-san-francisco-california-april-16-20-2012/
+
 ###Rackspace Moves to Production OpenStack
 16 Apr 2012
 
 Rackspace begins migrating customers onto its OpenStack-based public cloud. “We’re drawing a line in the sand against proprietary cloud providers," says Rackspcae CEO Lanham Napier.
 
-???WOULD REALLY APPRECIATE ADDITIONAL TECHNICAL COMMENTARY HERE???
+???WOULD REALLY APPRECIATE ADDITIONAL TECHNICAL COMMENTARY HERE??? - (Most of this is in the referenced blog post.)
+Rackspace delivers a new implementation of it's public Cloud Servers based on OpenStack Nova. 
 
 http://www.rackspace.com/blog/rackspace-announces-availability-of-production-ready-next-generation-cloud-powered-by-openstack/
 
@@ -303,6 +325,11 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Folsom
 
 http://www.rackspace.com/blog/newsarticles/rackspace-launches-certification-program-for-openstack/
 
+### San Diego Design Summit
+15 Oct 2012
+
+http://www.openstack.org/summit/san-diego-2012/
+
 ###How VMware is Contributing to OpenStack >MULTIMEDIA<
 29 Oct 2012
 
@@ -322,6 +349,11 @@ http://www.rackspace.com/blog/video-jim-currys-openstack-emea-keynote-openstacks
 04 Apr 2013
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Grizzly
+
+###Portland Design Summit
+15 Apr 2013
+
+http://www.openstack.org/summit/portland-2013/
 
 ###NSA Speaks at OpenStack Design Summit >MULTIMEDIA<
 18 Apr 2013
