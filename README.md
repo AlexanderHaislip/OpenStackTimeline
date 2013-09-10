@@ -4,6 +4,17 @@ You can see the work visualized here: http://www.tiki-toki.com/timeline/entry/13
 ***
 Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Troy Toman, Another Name Goes Here, Foo
 
+***
+##Items still in need of clarification:
+1. When was the first OpenStack design summit? I've heard that it was the week before OSCON and open only to a small group of select partners. Can someone please provide additional details?
+2. Which is a better measure of community participation: lines of code or commits? What metric would you want to see to indicate the increased size of each release?
+3. Does anyone know where I can data similar to what's available at Stackalytics.com for the first three releases?
+4. When did the OpenStack foundation release its Governance Framework letter? I've nailed it down to March 2012, but want a specific date.
+5. The Anso team took a long weekend to create what would become the Nova project. When was that?
+6. When was Anso founded? What's the date on the articles of incorporation?
+
+***
+
 ###Rackspace Subsidiary Mosso Launches Cloud-Like Services
 19 Feb 2008
 
@@ -52,7 +63,7 @@ http://nebula.nasa.gov/blog/2010/04/07/nebulas-role-open-government/
 Working over a long weekend, Jesse Andrews, Josh McKenty and others effectively rewrite Eucalyptus in Python. The team open sources its work under the Apache2.0 license.
 
 ###Rackspace's Jim Curry Writes to NASA's Chris Kemp
-04 Jun 2010 ???DATE CHECK???
+04 Jun 2010
 
 Curry writes: “I run corporate development at Rackspace, and am very interested in talking with your team about Nebula. Confidentially, we are in the process of open sourcing our cloud stack and I am interested in seeing if there might be some synergies/opportunities for the two projects to work together. Would it be possible to setup some time to discuss with your team?”
 
@@ -61,7 +72,7 @@ http://www.rackspace.com/blog/rcloud-is-your-cloud-the-openstack-journey/
 ###Rick Clark Tips Off Rackspace to the Nebula Source Code
 07 June 2010
 
-Discovers that the NASA Nebula team effectively rewrote Eucalyptus in Python.
+Discovers that the NASA Nebula team effectively rewrote Eucalyptus in Python and open sourced it. The Nova code and its synergies with Rackspace's Swift file storage system become the topic of discussion when Rackspace and the NASA contractors meet.
 
 https://twitter.com/dendrobates/status/367760606457126912/photo/1
 
@@ -120,6 +131,8 @@ http://www.rackspace.com/blog/john-engates-talks-about-openstack/
 ###Nebula IaaS Goes GA in NASA
 18 Oct 2010
 
+The NASA Nebula team opens its Infrastructure-as-a-Service compute offering to NASA employees for use. The system still needs final security checks, but features resource quota tracking by project, resource availability zones, user-defined instance naming and an improved interface.
+
 http://nebula.nasa.gov/blog/2010/10/18/announcing-launch-nebula-iaas/
 
 ###First 'Austin' Code Released with 35+ Partners
@@ -131,6 +144,8 @@ http://www.computerworld.com/s/article/9192141/Rackspace_s_open_source_cloud_pro
 
 ###Inaugural Design Summit in San Antonio
 09 Nov 2010
+
+Held at the Weston Centre, San Antonio, this design summit focuses on what the community wants to develop in the object storage and compute projects as well as what additional functionality to put on the roadmap. Some 300 people attend. The big question? What would it take to make these projects ready for deployment by service providers.
 
 http://www.openstack.org/blog/2010/11/openstack-design-summit-day-1-pictures/
 http://www.openstack.org/blog/2010/09/the-second-openstack-design-conference/
@@ -189,7 +204,7 @@ http://www.openstack.org/blog/2011/04/openstack-conference-and-design-summit-reg
 ###Citrix Buys Cloud.com
 12 Jul 2011
 
-Citrix Systems has purchased Silicon Valley startup Cloud.com as part of its effort to help customers build, deploy, and manage Amazon-style "infrastructure clouds". On Tuesday, Citrix announced the purchase of the three-year-old, 50-person, venture-funded startup for an undisclosed sum. 
+Citrix Systems buys Cloud.com, maker of CloudStack. The move will eventually lead Citrix to abandon development of its commercial OpenStack distribution: Project Olympus. Within a year, Citrix pulls support for OpenStack and donates CloudStack to the Apache Foundation.
 
 http://www.theregister.co.uk/2011/07/12/citrix_buys_cloud_dot_com/
 
@@ -211,6 +226,46 @@ http://www.rackspace.com/blog/openstack-compute-enters-testing-stage-at-rackspac
 22 Sep 2011
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Diablo
+
+<b>Company Commits:</b>
+Rackspace	3158
+*independent	768
+Nebula	439
+Cisco Systems	245
+ThoughtWorks	176
+HP	142
+VMware	132
+Citrix	131
+NTT	109
+Piston Cloud	100
+VA Linux	96
+
+<b>Company Lines of Code: </b>
+Rackspace	355508
+*independent	285729
+HCL	48574
+Cisco Systems	40627
+ThoughtWorks	17468
+Nebula	14567
+VMware	13324
+Zadara Storage	12096
+Citrix	11914
+NTT	10852
+AT&T	10247
+
+<b>Top Ten Projects (By Commits)</b>
+1	nova	2793
+2	keystone	799
+3	horizon	519
+4	melange	422
+5	neutron	383
+6	glance	362
+7	swift	191
+8	python-novaclient	174
+9	gerrit	102
+10	config	97
+
+<b><i>Data via Stackalytics.com</i></b>
 
 ###Boston Design Summit
 3 Oct 2011
@@ -278,6 +333,45 @@ http://www.infoworld.com/d/cloud-computing/citrix-abandons-openstack-takes-cloud
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Essex
 
+<b>Company Commits<b>
+Rackspace	3045
+Nebula	974
+*independent	515
+Red Hat	502
+HP	420
+Canonical	128
+Citrix	112
+VMware	100
+Piston Cloud	67
+Cisco Systems	60
+Intel	59
+
+<b>Company Lines of Code </b>
+Rackspace	1732161
+Nebula	237319
+Information Sciences Institute	194646
+*independent	110953
+HP	80228
+Red Hat	72454
+VMware	27720
+Citrix	24587
+AT&T	16347
+Cisco Systems	15133
+OpenStack Foundation	9352
+
+<b>Popular Projects (by Commits)</b>
+1	nova	1695
+2	devstack	982
+3	keystone	803
+4	horizon	539
+5	glance	258
+6	openstack-manuals	184
+7	python-novaclient	167
+8	melange	153
+9	devstack-gate	148
+10	heat	148
+
+<b><i>Data via Stackalytics.com</i></b>
 
 ###IBM and RedHat join OpenStack Foundation effort
 12 Apr 2012
@@ -293,10 +387,7 @@ http://www.openstack.org/blog/2012/01/the-openstack-spring-2012-conference-in-sa
 ###Rackspace Moves to Production OpenStack
 16 Apr 2012
 
-Rackspace begins migrating customers onto its OpenStack-based public cloud. “We’re drawing a line in the sand against proprietary cloud providers," says Rackspcae CEO Lanham Napier.
-
-???WOULD REALLY APPRECIATE ADDITIONAL TECHNICAL COMMENTARY HERE??? - (Most of this is in the referenced blog post.)
-Rackspace delivers a new implementation of it's public Cloud Servers based on OpenStack Nova. 
+Rackspace begins migrating customers onto its OpenStack-based public cloud. “We’re drawing a line in the sand against proprietary cloud providers," says Rackspcae CEO Lanham Napier. The company continues to run as close to trunk as possible and actively integrates its operational learnings back into the source code.
 
 http://www.rackspace.com/blog/rackspace-announces-availability-of-production-ready-next-generation-cloud-powered-by-openstack/
 
@@ -330,10 +421,10 @@ http://www.rackspace.com/blog/newsarticles/rackspace-launches-certification-prog
 
 http://www.openstack.org/summit/san-diego-2012/
 
-###How VMware is Contributing to OpenStack >MULTIMEDIA<
+###VMware CTO Speaks on How the Company Contributes to OpenStack >MULTIMEDIA<
 29 Oct 2012
 
-CTO Steve Herrod speaks.
+Steve Herrod addressed a packed auditorium and discusses the future of the software-defined datacenter. As of this writing, VMware has contributed more than 730 commits and nearly 130,000 lines of code to OpenStack. Much of the work comes through Nicira, a network virtualization company VMware acquired in July 2012.
 
 http://www.youtube.com/watch?v=1_bwq78dWzI
 
@@ -353,10 +444,13 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Grizzly
 ###Portland Design Summit
 15 Apr 2013
 
+The conference focused on OpenStack users and participants heard from BestBuy, Comcast, CERN, PayPal and the National Security Agency. Each discussed how OpenStack was improving their internal IT by giving them unprecidented flexibility and control over their compute needs.
+
 http://www.openstack.org/summit/portland-2013/
 
-###NSA Speaks at OpenStack Design Summit >MULTIMEDIA<
-18 Apr 2013
+http://www.wired.com/insights/2013/04/openstack-users-step-into-the-limelight/
+
+<b>NSA Speaks at OpenStack Design Summit >MULTIMEDIA< </b>
 
 http://www.youtube.com/watch?v=NgahKksMZis
 
