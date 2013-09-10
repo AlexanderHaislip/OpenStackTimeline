@@ -333,7 +333,7 @@ http://www.infoworld.com/d/cloud-computing/citrix-abandons-openstack-takes-cloud
 
 https://wiki.openstack.org/wiki/ReleaseNotes/Essex
 
-<b>Company Commits<b>
+<b>Company Commits</b>
 Rackspace	3045
 Nebula	974
 *independent	515
