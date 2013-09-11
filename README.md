@@ -2,7 +2,7 @@
 ***
 You can see the work visualized here: http://www.tiki-toki.com/timeline/entry/138134/OpenStack-History/
 ***
-Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Troy Toman, Another Name Goes Here, Foo
+Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Troy Toman, Everett Toews, Another Name Goes Here, Foo
 
 ***
 ##Items still in need of clarification:
@@ -168,6 +168,16 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Bexar
 Rackspace buys Anso for an undisclosed amount and with it gets the technologists responsible for creating the on-demand computing project Nova.
 
 http://www.rackspace.com/blog/rackspace-acquires-anso-labs-furthers-commitment-to-openstack/
+
+###First ever RCB training and OpenStack deployment outside of NASA
+10 Mar 2011 - 11 Mar 2011
+
+The Rackspace Cloud Builders team (led by Soo Choi, Anthony Young, Vish Ishaya, and Jordan Rinke) gave their first ever training in Edmonton, AB, Canada. The training was conducted for Cybera (led by John Shillington, Barton Satchwill, and Everett Toews) to learn the inner workings of OpenStack. Vish returned to the Cybera offices the week of April 18th to help stand up the first ever OpenStack deployment outside of NASA for the Canadian DAIR project.
+
+http://www.cybera.ca/news-and-events/tech-radar/dair-project-team-has-its-head-in-the-cloud/
+http://imgur.com/a/mtOmS (Image album)
+http://i.imgur.com/87hdaI1h.jpg (Please find a way to use this image of Jordan)
+
 
 ###Chris Kemp Resigns from NASA & Starts Nebula
 19 Mar 2011 - 25 Mar 2011
