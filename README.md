@@ -2,7 +2,7 @@
 ***
 You can see the work visualized here: http://www.tiki-toki.com/timeline/entry/138134/OpenStack-History/
 ***
-Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Troy Toman, Everett Toews, Another Name Goes Here, Foo
+Please add your name to this list if you've made edits: Alexander Haislip, Jordan Evans, Troy Toman, Everett Toews, Joshua McKenty, Foo
 
 ***
 ##Items still in need of clarification:
@@ -29,6 +29,24 @@ Slicehost boosts Rackspace's on-demand infrastructure offerings. Slicehost offer
 
 http://techcrunch.com/2008/10/22/rackspace-acquires-jungledisk-slicehost-to-take-on-amazon-web-services/
 
+###Nebula.NASA.gov website hastily launched
+20 May 2009
+
+Upon finding out that the Agency CIO has discussed their skunkworks project during an interview in DC, scheduled to go live the next day, Joshua McKenty hastily throws together a django site for Nebula.NASA.gov from some of their initial components. 
+
+http://web.archive.org/web/20090525104248/http://nebula.nasa.gov/
+
+The architecture for their IaaS prototype is published for the first time - Josh's typo on "Luster" will haunt him for the next 3 years.
+http://web.archive.org/web/20090526204703/http://nebula.nasa.gov/services
+
+
+###Bobby German leaks announcement of NASA Nebula on Federal News Radio
+20 May 2009
+
+NASA plans on implementing a cloud demonstration program at the Ames Research Center later this year.
+http://nebula.nasa.gov/blog/2009/05/20/nasa-agency-cio-discusses-nebula-radio-interview/
+
+
 ###Open Government Initiative Signed by the President
 08 Dec 2009
 
@@ -39,7 +57,8 @@ http://www.whitehouse.gov/blog/2009/12/08/promoting-transparency-government
 ###Government Contractors Form Anso Labs
 ???DATE???
 
-A group of government contractors working on the NASA Nebula project band together to form Anso Labs.
+A group of government contractors working on the NASA Nebula project band together to form Anso Labs - a dba of OverStimulate Holdings, LLC.
+
 
 ###Rackspace Decides to Open Source Cloud Software
 01 Mar 2010
@@ -50,17 +69,32 @@ http://news.cnet.com/8301-13846_3-20010870-62.html
 
 http://techcrunch.com/2010/07/18/openstack-org-rackspace-open-sources-their-cloud-services-platform-and-gets-nasa-on-board/
 
-###NASA Open Sources Nebula Platform
+###NASA "Open Sources" Nebula Platform
 07 Apr 2010
 
 Chris Kemp announces the open sourcing of NASA's Nebula Platform on the agency's blog and ties the project to the Open Government Directive. Kemp writes: "Nebula will open the doors to transparency, participation and collaboration with powerful, economical computing resources built for government. By releasing the Nebula software stack as Open Source and publishing our entire operating model, Nebula will enable other government Agencies to benefit from NASA's experience."
 
 http://nebula.nasa.gov/blog/2010/04/07/nebulas-role-open-government/
 
-###Anso Team Creates Nova Project
-???DATE???
+Still no source code publicly available.
 
-Working over a long weekend, Jesse Andrews, Josh McKenty and others effectively rewrite Eucalyptus in Python. The team open sources its work under the Apache2.0 license.
+###Anso Team starts Nova Project (initially titled PiNet)
+08 Apr 2010
+
+Working over a long weekend, Jesse Andrews, Josh McKenty, Vishvananda Ishaya, Andy Smith, Todd Willey and Devin Carlen effectively rewrite Eucalyptus in Python. The team open sources its work under the Apache2.0 license.
+
+Jesse Andrew made the first commit to GitHub, to a repository at termie/pinet.
+
+https://github.com/termie/pinet/network
+
+https://github.com/termie/pinet/contributors?from=2010-04-03&to=2010-05-29&type=c
+
+###Anso Team marks repository public, announces first release of novacc.org
+28 May 2010
+
+http://web.archive.org/web/20100620230941/http://novacc.org/
+http://web.archive.org/web/20120904124727/http://www.cognition.ca/2010/05/launched-nova-apache-licensed-cloud-computing-in-python.html
+
 
 ###Rackspace's Jim Curry Writes to NASA's Chris Kemp
 04 Jun 2010
@@ -81,6 +115,11 @@ https://twitter.com/dendrobates/status/367760606457126912/photo/1
 
 Rackspace brings Swift, NASA brings Nova. The two organizations agree to share code, open source it all and a technical meritocracy is born.
 
+###Andrews and McKenty visit EOP, discuss possibilities for broader federal cloud initiative
+11 June 2010
+
+http://www.flickr.com/photos/joshuamckenty/4730823411/
+
 ###Chris Kemp Named NASA CTO of IT
 23 Jun 2010
 
@@ -89,20 +128,53 @@ Kemp provided the impetus to create Nebula and moves into a role where he can co
 http://nebula.nasa.gov/blog/2010/06/23/chris-kemp-named-nasa-cto-it/
 
 ###Jesse Andrews Demos Nova at CloudCamp
+23 Jun 2010
 
 An early public demonstration of the on-demand compute platform developed by the Anso team.
 
 http://www.cloudcamp.org/sf/148
+
+###Joshua McKenty Speaks at CERN about NASA Nebula
+1 July 2010
+
+Unable to disclose the plans for OpenStack, CERN's technical leadership is unimpressed, and they carry forward with their plans to deploy OpenNebula. CERN later becomes a major OpenStack supporter, and one of the largest OpenStack private clouds, with Tim Bell taking a seat on the OpenStack Foundation Board of Directors.
+
+http://www.flickr.com/photos/joshuamckenty/4771785025/
+http://indico.cern.ch/conferenceDisplay.py?confId=98857&header=none
+
+###Overstimulate LLC files for "Anso Labs" trademark
+5 Jul 2010
+
+Jesse Andrews and Soo Choi join forces to launch Anso (a combination of Andrews and Soo) Labs, after Soo Choi leaves Booz Allen Hamilton to commit herself to the NASA Nebula project full-time.
+First AnsoLabs.com website goes up - "We are too busy building NASA's cloud to make a website... Email Us: contact@ansolabs.com"
+
+http://www.trademarkia.com/anso-labs-85077922.html
+http://web.archive.org/web/20100722210528/http://www.ansolabs.com/
 
 ###Lew Moorman Speaks at Design Summit >MULTIMEDIA<
 10 Jul 2010
 
 http://www.youtube.com/watch?v=WUoDiFEjUP4
 
+
+###First OpenStack Summit is held in San Antonio
+13 Jul 2010
+
+The so-called "Secret" Summit has about 100 participants from 40 companies.
+Anso Labs team finish changing the copyright assignment on all source code to NASA, a compromise that allows the source code to be once again publicly available in time for the day-3 hackathon.
+
+https://github.com/angst/cc/commit/67162cf7520ca78044ac74202147580c8a3520f3
+
+
 ###Josh McKenty Discusses NASA's Nebula Cloud >MULTIMEDIA<
 14 Jul 2010
 
 http://www.youtube.com/watch?v=btvLQdSvcJA
+
+###Anso Labs waives copyright, assigns to NASA
+15 Jul 2010
+
+Jul 15, 2010 at 1:28 AM.
 
 ###OpenStack Launches
 18 Jul - 22 Jul 2010
@@ -165,7 +237,7 @@ https://wiki.openstack.org/wiki/ReleaseNotes/Bexar
 ###Rackspace Acquires Anso Labs
 09 Feb 2011
 
-Rackspace buys Anso for an undisclosed amount and with it gets the technologists responsible for creating the on-demand computing project Nova.
+Rackspace buys Anso for an undisclosed amount and with it gets some of the technologists responsible for creating the on-demand computing project Nova.
 
 http://www.rackspace.com/blog/rackspace-acquires-anso-labs-furthers-commitment-to-openstack/
 
