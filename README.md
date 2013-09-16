@@ -6,12 +6,9 @@ Please add your name to this list if you've made edits: Alexander Haislip, Jorda
 
 ***
 ##Items still in need of clarification:
-1. When was the first OpenStack design summit? I've heard that it was the week before OSCON and open only to a small group of select partners. Can someone please provide additional details?
-2. Which is a better measure of community participation: lines of code or commits? What metric would you want to see to indicate the increased size of each release?
-3. Does anyone know where I can data similar to what's available at Stackalytics.com for the first three releases?
-4. When did the OpenStack foundation release its Governance Framework letter? I've nailed it down to March 2012, but want a specific date.
-5. The Anso team took a long weekend to create what would become the Nova project. When was that?
-6. When was Anso founded? What's the date on the articles of incorporation?
+1. Which is a better measure of community participation: lines of code or commits? What metric would you want to see to indicate the increased size of each release?
+2. Does anyone know where I can data similar to what's available at Stackalytics.com for the first three releases?
+3. When did the OpenStack foundation release its Governance Framework letter? I've nailed it down to March 2012, but want a specific date.
 
 ***
 
@@ -29,18 +26,23 @@ Slicehost boosts Rackspace's on-demand infrastructure offerings. Slicehost offer
 
 http://techcrunch.com/2008/10/22/rackspace-acquires-jungledisk-slicehost-to-take-on-amazon-web-services/
 
-###Nebula.NASA.gov website hastily launched
+###Jesse Andrews Incorporates Consulting Firm
+08 May 2009
+
+Andrews files with the California Secretary of State for Overstimulate LLC, a consulting firm that he will later use as an entity to do business as Anso Labs.
+
+###Nebula.NASA.gov Website Hastily Launched
 20 May 2009
 
 Upon finding out that the Agency CIO has discussed their skunkworks project during an interview in DC, scheduled to go live the next day, Joshua McKenty hastily throws together a django site for Nebula.NASA.gov from some of their initial components. 
 
 http://web.archive.org/web/20090525104248/http://nebula.nasa.gov/
 
-The architecture for their IaaS prototype is published for the first time - Josh's typo on "Luster" will haunt him for the next 3 years.
+The architecture for its IaaS prototype is published for the first time - Josh's typo on "Luster" will haunt him for the next 3 years.
 http://web.archive.org/web/20090526204703/http://nebula.nasa.gov/services
 
 
-###Bobby German leaks announcement of NASA Nebula on Federal News Radio
+###NASA Agency CI Bobby German Leaks Announcement of NASA Nebula on Federal News Radio
 20 May 2009
 
 NASA plans on implementing a cloud demonstration program at the Ames Research Center later this year.
@@ -89,7 +91,7 @@ https://github.com/termie/pinet/network
 
 https://github.com/termie/pinet/contributors?from=2010-04-03&to=2010-05-29&type=c
 
-###Anso Team marks repository public, announces first release of novacc.org
+###Anso Team Makes its Repository Public and Announces the First Release of novacc.org
 28 May 2010
 
 http://web.archive.org/web/20100620230941/http://novacc.org/
@@ -115,7 +117,7 @@ https://twitter.com/dendrobates/status/367760606457126912/photo/1
 
 Rackspace brings Swift, NASA brings Nova. The two organizations agree to share code, open source it all and a technical meritocracy is born.
 
-###Andrews and McKenty visit EOP, discuss possibilities for broader federal cloud initiative
+###Andrews and McKenty Visit the Executive Office of the President to Discuss Possibilities for Broader Federal Cloud Initiative
 11 June 2010
 
 http://www.flickr.com/photos/joshuamckenty/4730823411/
@@ -146,6 +148,7 @@ http://indico.cern.ch/conferenceDisplay.py?confId=98857&header=none
 5 Jul 2010
 
 Jesse Andrews and Soo Choi join forces to launch Anso (a combination of Andrews and Soo) Labs, after Soo Choi leaves Booz Allen Hamilton to commit herself to the NASA Nebula project full-time.
+
 First AnsoLabs.com website goes up - "We are too busy building NASA's cloud to make a website... Email Us: contact@ansolabs.com"
 
 http://www.trademarkia.com/anso-labs-85077922.html
@@ -171,10 +174,8 @@ https://github.com/angst/cc/commit/67162cf7520ca78044ac74202147580c8a3520f3
 
 http://www.youtube.com/watch?v=btvLQdSvcJA
 
-###Anso Labs waives copyright, assigns to NASA
+###Anso Labs Waives its Copyright Opportunity on Nebula and Assigns its Intellectual Property to NASA
 15 Jul 2010
-
-Jul 15, 2010 at 1:28 AM.
 
 ###OpenStack Launches
 18 Jul - 22 Jul 2010
@@ -185,7 +186,7 @@ Jul 15, 2010 at 1:28 AM.
   
 http://www.rackspace.com/blog/opening-the-rackspace-cloud/
 
-<b>19 Jul: Rackspace issues a press release: OpenStack Launches with 25+ Partners</b>
+<b>19 Jul: Rackspace Issues a Press Release: OpenStack Launches with 25+ Partners</b>
 
 <i>Rackspace(R) Hosting (NYSE:RAX) today announced the launch of OpenStack(TM), an open-source cloud platform designed to foster the emergence of technology standards and cloud interoperability. The project will also incorporate technology that powers the NASA Nebula Cloud Platform. Rackspace and NASA plan to actively collaborate on joint technology development and leverage the efforts of open-source software developers worldwide. More than 25 companies were represented at the Design Summit including AMD, Autonomic Resources, Citrix, Cloud.com, Cloudkick, Cloudscaling, CloudSwitch, Dell, enStratus, FathomDB, Intel, iomart Group, Limelight, Nicira, NTT DATA, Opscode, PEER 1, Puppet Labs, RightScale, Riptano, Scalr, SoftLayer, Sonian, Spiceworks, Zenoss and Zuora. </i>
 
